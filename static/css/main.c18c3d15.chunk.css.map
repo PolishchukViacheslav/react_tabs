@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Tab.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,KACE,iBACF","file":"main.c18c3d15.chunk.css","sourcesContent":[".app {\n  text-align: center;\n}\n",".btn {\n  margin-right: 10px;\n}\n"]}
